@@ -1,5 +1,5 @@
-// FOV Increase
-"r_aspectratio" "2.7"
+// Optional FOV Increase
+//"r_aspectratio" "2.7"
 
 // Cloth physics ON (fixes playermodel bugs)
 "cloth_update" "1"
